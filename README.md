@@ -1,4 +1,4 @@
-# V-Code-S-FOSS_Hackathon_2024
+# FOSS_Hackathon_2024
 ## Overview:
 This project is a simple conversational ChatBot application designed using Python's Tkinter library for the GUI and a basic script for responding to user inputs. The bot engages in basic conversations, providing responses to a variety of predefined queries about daily routines, general information, and common greetings.
 
