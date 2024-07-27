@@ -1,4 +1,4 @@
-# FOSS_Hackathon_2024
+# FOSS_Hackathon_2024_ConversoAI
 
 
 ### Problem Statement for ConversoAI
