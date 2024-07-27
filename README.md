@@ -5,15 +5,15 @@ This project is a simple conversational ChatBot application designed using Pytho
 ## Features:
 
 ### Interactive Chat Interface: Users can type messages and receive responses in a chat-like interface.
-#### Predefined Responses: The bot responds to a range of questions with predefined answers, making it ideal for demonstrating basic natural language processing (NLP) concepts.
-GUI with Tkinter: The application uses Tkinter, a standard Python interface to the Tk GUI toolkit, to create a simple and intuitive user interface.
-Scrolling Chat Window: The chat window allows users to scroll through the conversation, enhancing user experience.
+### Predefined Responses: The bot responds to a range of questions with predefined answers, making it ideal for demonstrating basic natural language processing (NLP) concepts.
+### GUI with Tkinter: The application uses Tkinter, a standard Python interface to the Tk GUI toolkit, to create a simple and intuitive user interface.
+### Scrolling Chat Window: The chat window allows users to scroll through the conversation, enhancing user experience.
 Real-World Applications
-Customer Support:
+### Customer Support:
 
 The chatbot can be adapted to handle frequently asked questions in customer service scenarios, providing immediate responses and reducing the workload on human agents.
 It can be customized to answer questions about products, services, and troubleshooting, improving response times and customer satisfaction.
-Educational Tool:
+### Educational Tool:
 
 The bot can be tailored to provide educational content, quiz questions, or language learning support. For instance, it can assist users in learning a new language by answering queries or providing translations.
 It can also be integrated into learning management systems to provide instant answers to students' queries about course materials or schedules.
