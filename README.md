@@ -1,5 +1,6 @@
 # FOSS_Hackathon_2024_ConversoAI
-![image](https://github.com/user-attachments/assets/34bde550-5da5-4e51-8d5e-a0f5ac624b26)
+                 ![image](https://github.com/user-attachments/assets/d5ef0da1-3613-40c8-8e39-d1ac1c1bf9d5)
+
 
 
 ### Problem Statement for ConversoAI
