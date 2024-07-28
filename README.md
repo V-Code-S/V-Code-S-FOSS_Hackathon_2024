@@ -1,5 +1,5 @@
 # FOSS_Hackathon_2024_ConversoAI
-                 ![image](https://github.com/user-attachments/assets/d5ef0da1-3613-40c8-8e39-d1ac1c1bf9d5)
+![image](https://github.com/user-attachments/assets/d5ef0da1-3613-40c8-8e39-d1ac1c1bf9d5)
 
 
 
