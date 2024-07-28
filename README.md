@@ -48,3 +48,7 @@ This project serves as an excellent introduction to chatbot development and GUI 
 
 ## Author
 ### Team Varadha
+#### Virupakshi
+#### Nithin A B
+#### Akash Aparaj 
+#### Chitra T N
